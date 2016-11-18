@@ -1,0 +1,22 @@
+#hero-img {
+  position: relative;
+  float: left;
+}
+
+#img-text {
+  position: absolute;
+  bottom: 32em;
+  left: 60em;
+  text-align: center;
+    h2 {
+      color: #d591b0;
+    }
+    h4 {
+      color: #6da0bf;
+    }
+    .btn {
+      background-color: rgba(255,255,255,.2);
+      border: 2px solid black;
+      color: black;
+    }
+}
