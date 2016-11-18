@@ -4,16 +4,19 @@
 
 #img-text {
   position: absolute;
-  bottom: 32em;
-  left: 60em;
+  bottom: 26em;
+  left: 63em;
   text-align: center; }
   #img-text h2 {
     color: #d591b0; }
   #img-text h4 {
     color: #6da0bf; }
-  #img-text .btn {
-    background-color: rgba(255, 255, 255, 0.2);
+  #img-text .button {
+    background-color: rgba(255, 255, 255, 0);
     border: 2px solid black;
+    padding: 1em;
     color: black; }
+    #img-text .button:hover {
+      box-shadow: .25px .25px 1px black; }
 
 /*# sourceMappingURL=input_style.css.map */
